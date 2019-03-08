@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PetzDaily</string>
+    <string name="btnEntrar">Acessar</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtCadastro">Ainda não possui uma conta? </string>
+    <string name="txtRegistrar">Registar-se</string>
+</resources>
