@@ -1,8 +1,20 @@
 <resources>
+    <!--Strings activy_main -->
     <string name="app_name">PetzDaily</string>
     <string name="btnEntrar">Acessar</string>
     <string name="txtLogin">Login</string>
     <string name="txtPassword">Password</string>
     <string name="txtCadastro">Ainda não possui uma conta? </string>
     <string name="txtRegistrar">Registar-se</string>
+    <!--Strings cadastro_perfil -->
+    <string name="cp_pefil">CADASTRE O PERFIL</string>
+    <string name="pet_Nome">NOME</string>
+    <string name="pet_Raca">RAÇA</string>
+    <string name="pet_Especie">ESPECIE</string>
+    <string name="pet_Nasc">DATA DE NASCIMENTO</string>
+    <string name="pet_Sexo">SEXO</string>
+    <string name="pp_Nome"></string>
+    <string name="pp_Raca"></string>
+    <string name="pp_Especie"></string>
+    <string name="pp_Nasc"></string>
 </resources>
